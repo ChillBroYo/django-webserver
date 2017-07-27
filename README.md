@@ -3,8 +3,8 @@ The quickest and dirtiest django webserver you've ever seen
 
 Simple steps to get this baby running, also with these things # to explain what it does:
 
-# Get this thing
-1. Clone this baby
+# Clone this baby
+1. git clone https://github.com/ChillBroYo/django-webserver.git
 # Get in this thing
 2. cd django-webserver
 # Get in the tutorial
